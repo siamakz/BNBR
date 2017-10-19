@@ -1,0 +1,16 @@
+Package: BNBR
+Type: Package
+Title: Bayesian Negative Binomial Regression For Differential Expression Analysis
+Version: 0.1.0
+Author: Siamak Zamani Dadaneh
+Authors@R: person("Zamani Dadaneh", "Siamak", email = "siamak@tamu.edu", 
+  role = c("aut", "cre"))
+Description: BNB-R performs differential expression analysis method for sequencing
+        count data using a fully Bayesian model, without the need for ad-hoc
+        normalization steps.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+URL: https://github.com/siamakz/BNBR
+BugReports: https://github.com/siamakz/BNBR/issues
+RoxygenNote: 6.0.1
